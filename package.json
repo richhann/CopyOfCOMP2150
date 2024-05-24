@@ -1,0 +1,17 @@
+{
+  "name": "comp2110-portal-simple",
+  "version": "1.0.0",
+  "description": "Portal web application",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server --port=8013 .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-config-google": "^0.14.0",
+    "live-server": "^1.2.2"
+  }
+}
