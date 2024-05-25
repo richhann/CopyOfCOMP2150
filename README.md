@@ -6,8 +6,8 @@ in this file.
 https://web-development-project-group36.pages.dev/
 
 Login Details
-group-36
-um6of
+- group-36
+- um6of
 
 
 --Julian 
