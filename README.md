@@ -3,6 +3,13 @@
 As part of your assignment submission, write notes about your implementation
 in this file.
 
+https://web-development-project-group36.pages.dev/
+
+Login Details
+group-36
+um6of
+
+
 --Julian 
 
 I will be working on implementing the mood widget to our project. It will change colour / display depending on the time of day / day of the week, as well as how many tasks are due.
