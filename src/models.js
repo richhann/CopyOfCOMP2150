@@ -14,6 +14,7 @@ class Task {
     // and trigger a refresh
     window.addEventListener('user', () => {
       this.loadData();
+      console.log(this._tasks)
     });
   }
 
